@@ -1,1 +1,2 @@
-print("Hei Janina!")
+nimi = input("Anna nimi:")
+print("Terve," + nimi + "!")
