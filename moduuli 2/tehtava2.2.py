@@ -1,4 +1,4 @@
 import math
-sade = float(input("Anna ympyrän säde:"))
+sade = float(input("Anna ympyran sade:"))
 pinta_ala = math.pi * sade ** 2
-print("Ympyrän pinta-ala on", pinta_ala)
+print("Ympyran pinta-ala on", pinta_ala)

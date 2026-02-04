@@ -1,2 +1,3 @@
-nimi = input("Anna nimi:")
-print("Terve," + nimi + "!")
+name = input("Anna nimi:")
+print("Moi " + name + "!")
+print(f"Moi {name}!")
